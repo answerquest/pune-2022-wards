@@ -5,7 +5,7 @@ Source link: https://www.pmc.gov.in/en/pmc-final-prabhag-rachna-2022 (Link is ac
 
 All PDF ward maps (carrying screenshots of the ward boundaries) were manually downloaded, then manually traced over to digitize and create vector shapefile which can be used for mapping.
 
-This task was commissioned by [Nikhil VJ](https://nikhilvj.co.in) and published on his github repo; was done by [SeerMaps Technologies Pvt. Ltd.](http://www.seermaps.com/)
+This task was commissioned by [Nikhil VJ](https://nikhilvj.co.in) and done by [SeerMaps Technologies Pvt. Ltd.](http://www.seermaps.com/)
 
 This data is released openly under MIT Open Licence, free for use both commercial and non-commercial applications.
 
