@@ -1,7 +1,7 @@
 # pune-2022-wards
 Independently digitized wards shapefile for Pune Municipal Corporation from 2022 onwards, Maharashtra, India
 
-Source link: https://www.pmc.gov.in/en/pmc-final-prabhag-rachna-2022 (Link is active as of Aug 2022)
+Source link: https://www.pmc.gov.in/en/pmc-final-prabhag-rachna-2022 (Link is active as of Aug 2022) ([archive.org backup](https://web.archive.org/web/20220727115259/https://www.pmc.gov.in/en/pmc-final-prabhag-rachna-2022))
 
 All PDF ward maps (carrying screenshots of the ward boundaries) were manually downloaded, then manually traced over to digitize and create vector shapefile which can be used for mapping.
 
