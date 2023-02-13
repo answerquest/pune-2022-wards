@@ -13,3 +13,7 @@ This data is released openly under MIT Open Licence, free for use both commercia
 All credit for the maps is to the original publishing govt agencies. The authors of this shapefile have only done manual tracing / digitization work, and take no responsiblity for accuracy of this data. We recognize there can be human errors in this, being manually traced from PDF screenshots. Please consult the original PDFs published by govt for reference. 
 
 Please file an Issue if you find any inaccuracies in the shapes, or submit a PR (Pull Request) with fixed file. Note that PRs are greatly preferred over issues.
+
+### Cross-publish
+
+Also published on Datameet Municipal maps repo: https://github.com/datameet/Municipal_Spatial_Data/tree/master/Pune
